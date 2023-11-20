@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\arama örneği-777\arama örneği-777\bin\Debug\arama örneği-777.exe.config
+C:\Users\User\source\repos\arama örneği-777\arama örneği-777\bin\Debug\arama örneği-777.exe
+C:\Users\User\source\repos\arama örneği-777\arama örneği-777\bin\Debug\arama örneği-777.pdb
+C:\Users\User\source\repos\arama örneği-777\arama örneği-777\obj\Debug\arama örneği-777.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\arama örneği-777\arama örneği-777\obj\Debug\arama örneği-777.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\arama örneği-777\arama örneği-777\obj\Debug\arama_örneği_777.Form1.resources
+C:\Users\User\source\repos\arama örneği-777\arama örneği-777\obj\Debug\arama_örneği_777.Properties.Resources.resources
+C:\Users\User\source\repos\arama örneği-777\arama örneği-777\obj\Debug\arama örneği-777.csproj.GenerateResource.cache
+C:\Users\User\source\repos\arama örneği-777\arama örneği-777\obj\Debug\arama örneği-777.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\arama örneği-777\arama örneği-777\obj\Debug\arama örneği-777.exe
+C:\Users\User\source\repos\arama örneği-777\arama örneği-777\obj\Debug\arama örneği-777.pdb
